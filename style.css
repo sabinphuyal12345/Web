@@ -1,0 +1,154 @@
+#logo{
+    width : 50px;
+    height : 50px;
+    background : blue;
+    border-radius : 100%;
+    float : left;
+}
+
+#bar{
+    width : 99%;
+    height : 50px;
+    background-color : grey;
+    float : top left;
+}
+
+#left_bar{
+    width : 600px;
+    height : 500px;
+    background-color : blue;
+    position : absolute;
+    top : 15%;
+}
+
+#right_bar{
+    width : 600px;
+    height : 500px;
+    background-color : green;
+    position : absolute;
+    top : 15%;
+    left : 60%;
+}
+
+#footer{
+    width : 99%;
+    height : 75px;
+    background-color : yellow;
+    position : absolute;
+    top : 90%;
+}
+
+#social_01{
+    width : 55px;
+    height : 55px;
+    background-color : black;
+    border-radius : 100%;
+    position : absolute;
+    top : 15%;
+    left : 40%;
+}
+
+#social_02{
+    width : 55px;
+    height : 55px;
+    background-color : black;
+    border-radius : 100%;
+    position : absolute;
+    top : 15%;
+    left : 45%;
+}
+
+#social_03{
+    width : 55px;
+    height : 55px;
+    background-color : black;
+    border-radius : 100%;
+    position : absolute;
+    top : 15%;
+    left : 50%;
+}
+
+#social_04{
+    width : 55px;
+    height : 55px;
+    background-color : black;
+    border-radius : 100%;
+    position : absolute;
+    top : 15%;
+    left : 55%;
+}
+
+#bg{
+    background-color : black;
+}
+
+#b1{
+    width : 100px;
+    height : 35px;
+    position : absolute;
+    background-color : black;
+    color : white;
+    top : 2%;
+    left : 25%;
+    font-family : cursive;
+}
+
+#b2{
+    width : 100px;
+    height : 35px;
+    position : absolute;
+    background-color : black;
+    color : white;
+    top : 2%;
+    left : 35%;
+       font-family : cursive;
+}
+
+#b3{
+    width : 100px;
+    height : 35px;
+    position : absolute;
+      background-color : black;
+    color : white;
+    top : 2%;
+    left : 45%;
+       font-family : cursive;
+}
+
+#b4{
+    width : 100px;
+    height : 35px;
+    position : absolute;
+      background-color : black;
+    color : white;
+    top : 2%;
+    left : 55%;
+       font-family : cursive;
+}
+
+#b1:hover{
+    background-color : yellow;
+    color : black;
+}
+
+#b2:hover{
+    background-color : yellow;
+    color : black;
+}
+
+#b3:hover{
+    background-color : yellow;
+    color : black;
+}
+
+#b4:hover{
+    background-color : yellow;
+    color : black;
+}
+
+
+
+
+
+
+
