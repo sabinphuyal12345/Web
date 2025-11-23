@@ -1,0 +1,27 @@
+header div:first-child{
+    width : 50px;
+    padding : 50px;
+    float : left;
+    background-color : red;
+}
+
+header div:nth-child(2){
+    width : 50px;
+    padding : 50px;
+    float : left;
+    background-color : green;
+}
+
+header div:nth-child(3){
+    width : 50px;
+    padding : 50px;
+    float : right;
+    background-color :yellow;
+}
+
+header div:nth-child(4){
+        width : 50px;
+    padding : 50px;
+    float : right;
+    background-color :pink;
+}
