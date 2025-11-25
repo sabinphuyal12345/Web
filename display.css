@@ -1,0 +1,32 @@
+header div:first-child{
+    width : 80%;
+    padding : 5%;
+    background-color : red;
+    margin-top : 50px;
+    margin-left : 100px;
+}
+
+header div:nth-child(2){
+    width : 15%;
+    background-color : green;
+    padding : 8%;
+    margin : 100px;
+    float : left;
+}
+
+header div:nth-child(3){
+    width : 50%;
+    background-color : green;
+    height : 240px;
+    margin-left : 100px;
+    margin-top : -340px;
+    float : right;
+}
+
+header div:nth-child(4){
+    width : 80%;
+    padding : 2%;
+    background-color : blue;
+    margin-top : 470px;
+    margin-left : 100px;
+}
