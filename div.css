@@ -1,0 +1,28 @@
+#container{
+    flex-direction : row;
+    display : flex;
+}
+
+#a{
+    width : 100px;
+    height : 100px;
+    background-color : red;
+    order : 2;
+    margin : 10px;
+}
+
+#b{
+       width : 100px;
+    height : 100px;
+    background-color : green;
+    order : 3;
+        margin : 10px;
+}
+
+#c{
+       width : 100px;
+    height : 100px;
+    background-color : blue;
+    order :1;
+        margin : 10px;
+}

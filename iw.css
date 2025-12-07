@@ -1,0 +1,123 @@
+@media screen and (max-width : 500px){
+    body{
+        background-color : green;
+    }
+}
+
+#hd{
+    width : 99%;
+    height : 5%;
+    background-color : rgb(209, 204, 204);
+}
+
+#container{
+    width : 99%;
+    height : 10%;
+    background-color : turquoise;
+    display : flex;
+}
+
+#menu_01{
+    width : 8%;
+    height : 75%;
+    background-color : white;
+    display : flex;
+    position : relative;
+    border-radius : 25%;
+    border : 3px solid black;
+    top : 10%;
+    left : 10%;
+}
+
+#menu_01:hover{
+    background-color : black;
+        border-radius : 35%;
+    border : 3px solid white;
+}
+
+#menu_02{
+    width : 8%;
+    height : 75%;
+    background-color : white;
+        border-radius : 25%;
+    border : 3px solid black;
+    display : flex;
+    position : relative;
+    top : 10%;
+    left : 25%;
+}
+
+#menu_02:hover{
+    background-color : black;
+            border-radius : 35%;
+    border : 3px solid white;
+}
+
+#menu_03{
+    width : 8%;
+    height : 75%;
+    background-color : white;
+        border-radius : 25%;
+    border : 3px solid black;
+    display : flex;
+    position : relative;
+    top : 10%;
+    left : 40%;
+}
+
+#menu_03:hover{
+    background-color : black;
+            border-radius : 35%;
+    border : 3px solid white;
+}
+
+#menu_04{
+    width : 8%;
+    height : 75%;
+    background-color : white;
+        border-radius : 25%;
+    border : 3px solid black;
+    display : flex;
+    position : relative;
+    top : 10%;
+    left : 55%;
+}
+
+#menu_04:hover{
+    background-color : black;
+            border-radius : 35%;
+    border : 3px solid white;
+}
+
+#left_bar{
+    width : 50%;
+    height : 75%;
+    background-color : blue;
+    float : left;
+}
+
+#right_bar{
+    width : 49%;
+    height : 75%;
+    background-color : pink;
+    float : left;
+}
+
+#foot{
+    width : 99%;
+    height : 10%;
+    background-color : purple;
+    float : left;
+    justify-content : center;
+}
+
+#media_01{
+    width : 60px;
+    height :60px;
+    background-color : green;
+    border-radius : 100%;
+    position : relative;
+    top : 8%;
+    left : 30%;
+}
+

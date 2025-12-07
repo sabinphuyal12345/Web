@@ -1,0 +1,25 @@
+#cnt{
+    display : flex;
+    /*flex-direction : column-reverse;*/
+}
+
+#leftbar{
+    background-color : purple;
+    height : 300px;
+    width : 200px;
+    order : 3;
+}
+
+#rightbar{
+    background-color : red;
+    height : 300px;
+    order :1;
+    width : 200px;
+}
+
+#start{
+    background-color : blue;
+    order : 2;
+    height : 300px;
+    width : 200px;
+}

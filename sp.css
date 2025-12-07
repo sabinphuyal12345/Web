@@ -1,0 +1,57 @@
+#x{
+    width : 99%;
+    height : 11%;
+    background-color : rgb(193, 190, 190);
+}
+
+#a{
+    width : 100px;
+    height : 50px;
+    background-color : black;
+    float : left;
+    margin-left : 5%;
+    margin-top : 1%;
+}
+
+#b{
+    width : 100px;
+    height : 50px;
+    background-color : black;
+    float : left;
+    margin-left : 35%;
+    margin-top : 1%;
+}
+
+#c{
+    width : 100px;
+    height : 50px;
+    background-color : black;
+    float : right;
+    margin-right : 5%;
+    margin-top : 1%;
+}
+
+#btn{
+    width : 100px;
+    height : 100px;
+    background-color : grey;
+    display : flex;
+}
+
+#abc{
+    margin : 10%;
+}
+
+#k{
+    width : 250px;
+    height : 250px;
+    background-color : green;
+    display : flex;
+}
+
+#y{
+    width : 250px;
+    height : 250px;
+    background-color : green;
+     display : flex;
+}
