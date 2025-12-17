@@ -1,9 +1,10 @@
-@media screen and (max-width : 500px){
+@media screen and (max-width : 900px){
     body{
         background-color : green;
-        font-size : 10px;
+        font-size : 5px;
     }
 }
+
 
 #hd{
     width : 99%;
